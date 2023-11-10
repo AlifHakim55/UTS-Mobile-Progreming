@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">List Aktor Terpopuler 2023</string>
+    <string name="players_name">Nama Aktor</string>
+    <string name="description">Deskripsi</string>
+
+
+    <string name="about">About</string>
+    <string name="me">Nama Saya</string>
+    <string name="akun">Akun</string>
+
+
+
+    <string-array name="data_nama">
+        <item>Alif Hakim Al Faruq</item>
+    </string-array>
+    <string-array name="data_akun">
+        <item>alif@gmail.com</item>
+    </string-array>
+    <integer-array name="data_foto">
+        <item>@drawable/alif</item>
+    </integer-array>
+
+    <string-array name="data_name">
+        <item>Dwayne Johnson</item>
+        <item>Shahrukh khan</item>
+        <item>Robert Downey Jr.</item>
+        <item>Leonardo Dicaprio</item>
+        <item>Salman Khan</item>
+        <item>Vin Diesel</item>
+        <item>Chris Evans</item>
+        <item>Chris Hemsworth</item>
+        <item>Will Smith</item>
+        <item>Jackie Chan</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Name:Dwayne johnson\nNationality:Amerika\nBorn:Mei 2, 1972\nStatus:Active\nFollowers:392M pengikut\nApprox. Total Penghasilan:$10,5 Miliar\n\n\n
+            Dwayne johson telah mencapai popularitas yang tak tertandingi sebagai aktor pada tahun 2023. Dia adalah pegulat WWE terkenal, dikenal luas dengan nama cincinnya "The Rock", yang dianggap sebagai salah satu dari yang terhebat sepanjang masa.\n
+            Aktor Amerika multi-talenta ini sangat terkenal di seluruh dunia, dengan film-filmnya menghasilkan $10,5 miliar secara global. Hasilnya, ia dianugrahi gelar aktor berpenghasilan tertinggi sepanjang masa. Film populernya antara lain The Scorpion King, Moana, Rampage, Tooth Fairy, The Game Plan, Fast and Furious, dan masih banyak lagi.
+        </item>
+        <item>Name:Shahrukh Khan\nNationality:New Delhi, India\nBorn:November 2, 1965 \nStatus:Active\nFollowers:43.6M pengikut\nApprox. Total Penghasilan:$740 juta\n\n\n
+            Shah Rukh Khan, aktor veteran Bollywood yang dikenal sebagai raja romansa, tidak dapat disangkal adalah bintang film terbesar di dunia. Pada tahun 2023, ia tetap menjadi salah satu aktor paling populer secara global. Lahir pada tanggal 2 November 1965, di New Delhi, India, Shah Rukh Khan adalah salah satu aktor Bollywood paling sukses sepanjang masa dan ikon global berkat usahanya sendiri. Film Hindi buatannya, Pathan, telah memecahkan rekor box office, sekali lagi menunjukkan mengapa ia adalah raja pasar luar negeri. Film ini mengumpulkan sekitar ₹380 crores hanya dalam empat hari, tertinggi untuk film India mana pun hingga saat ini. Shah Rukh Khan adalah ikon global dan memegang penghargaan akting terbanyak di dunia atas keahliannya yang luar biasa. Dia telah memenangkan 14 penghargaan Filmfare dan dianugerahi penghargaan Padma Shri oleh pemerintah India. Kekayaan bersihnya saat ini adalah $740 juta. Beberapa filmnya yang paling terkenal antara lain Baadshah, Baazigar, Darr, Kabhi Khushi Kabhi Gham, My Name is Khan, Chennai Express, Pathan, dan masih banyak lagi.</item>
+
+        <item>Name:Robert Downey Jr.\nNationality:Amerika\nBorn:April 4, 1965\nStatus:Active\nFollowers:57.3M pengikut\nApprox. Total Penghasilan:$300 juta\n\n\n
+            Robert Downey Jr., seorang tokoh terkenal di industri Hollywood, telah mendapatkan basis penggemar yang sangat besar di seluruh dunia, dan sebagian besar orang mengenalinya sebagai Iron Man. Pada tahun 2023, ia tetap menjadi salah satu aktor Hollywood paling populer. Lahir pada tanggal 4 April 1965, aktor Amerika yang luar biasa ini memulai karir aktingnya di usia yang sangat muda. Pada usia 5 tahun, ia memulai debutnya di film Pound. Dia telah memenangkan banyak penghargaan, termasuk Academy Award untuk Aktor Terbaik dan BAFTA Award, atas penampilan aktingnya yang luar biasa. Kekayaan bersih Robert Downey Jr. lebih dari $300 juta, menjadikannya salah satu aktor dengan bayaran tertinggi di era saat ini.</item>
+
+        <item>Name:Leonardo Dicaprio\nNationality:Amerika Serikat\nBorn:November 11, 1974\nStatus:Active\nFollowers:61.9M pengikut\nApprox. Total Penghasilan:$500 juta\n\n\n
+            Leonardo DiCaprio, seorang aktor legendaris, berada di urutan berikutnya dalam daftar 10 aktor terpopuler tahun 2023. Ia lahir pada tanggal 11 November 1974, di Los Angeles, Amerika Serikat. Ia secara luas dianggap sebagai aktor paling serba bisa dan sering muncul di peringkat tahunan aktor dengan bayaran tertinggi. Pada tahun 1997, filmnya Titanic menjadi salah satu film terpopuler dan terlaris yang pernah dibuat. Leonardo DiCaprio telah memenangkan beberapa penghargaan, termasuk Oscar, Academy Award, dan Golden Globe Award, atas penampilan aktingnya yang luar biasa. Beberapa filmnya yang paling terkenal antara lain The Wolf of Wall Street, The Revenant, Blood Diamond, Inception, dan Catch Me If You Can.</item>
+
+        <item>Name:Salman Khan\nNationality:Indore\nBorn:Desember 27, 1965\nStatus:Active\nFollowers:67.1M pengikut\nApprox. Total Penghasilan:$400 juta\n\n\n
+            Salman Khan, yang dikenal sebagai Jantungnya Bollywood, saat ini adalah salah satu aktor Bollywood paling populer di seluruh dunia. Ia lahir pada tanggal 27 Desember 1965 di Indore. Kepribadian dan kegiatan amalnya telah membuatnya sangat berpengaruh di kalangan masyarakat. Salman telah menerima banyak penghargaan atas karyanya yang luar biasa dalam film, termasuk dua penghargaan nasional dan dua penghargaan Filmfare. Dia juga salah satu aktor Bollywood terkaya, dengan kekayaan bersih sekitar $400 juta. Beberapa film super hitsnya antara lain Biwi Ho to Aisi, Maine Pyar Kiya, Biwi No 1, Hum Aapke Hain Kaun, Ek Tha Tiger, Sultan, Bajrangi Bhaijaan, dan Tiger Zinda Hai. Tidak ada keraguan bahwa dia saat ini adalah salah satu aktor paling terkenal dan dengan bayaran tertinggi di industri Bollywood.</item>
+
+        <item>Name:Vin Diesel\nNationality:Amerika\nBorn:Juli 18, 1967\nStatus:Active\nFollowers:102M pengikut\nApprox. Total Penghasilan:$900 juta\n\n\n
+           Vin Diesel tidak bisa dipungkiri menjadi salah satu aktor terpopuler di tahun 2023, khususnya di genre film aksi. Lahir pada tanggal 18 Juli 1967 di California, aktor veteran Amerika ini telah mendapatkan pengakuan luas atas peran utamanya dalam serial film Fast and Furious, yang telah memberikan kontribusi signifikan terhadap posisinya sebagai salah satu aktor berpenghasilan tertinggi sepanjang masa. Selain kiprahnya di franchise Fast and Furious, Vin Diesel juga pernah membintangi beberapa film sukses lainnya, antara lain XXX, Guardians of the Galaxy, dan Find Me Guilty. Kemampuan aktingnya yang mengesankan telah membuatnya mendapatkan beberapa penghargaan, seperti Online Film Critics Society Award, MTV Movie Award, dan CinemaCon Award.</item>
+
+        <item>Name:Chris Evans\nNationality:Boston,AS\nBorn:Juni 13, 1981\nStatus:Active\nFollowers:10M pengikut\nApprox. Total Penghasilan:$200 juta\n\n\n
+            Chris Evans adalah aktor Hollywood yang sangat sukses dan populer, dikenal karena keserbagunaan dan penampilannya yang mencolok. Lahir pada 13 Juni 1981 di Boston, AS, ia memulai karir aktingnya di film pendidikan satwa liar. Evans menjadi terkenal dengan perannya sebagai Captain America dalam film Marvel dan juga membintangi film populer lainnya seperti Sunshine, Knives Out, Playing it Cool, dan Fantastic Four, menjadikannya sensasi global. Dia saat ini termasuk aktor dengan bayaran tertinggi di dunia.</item>
+
+        <item>Name:Chris Hemsworth\nNationality:Australia\nBorn:Agustus 11, 1983\nStatus:Active\nFollowers:57.6M pengikut\nApprox. Total Penghasilan:$550 juta\n\n\n
+            Christopher Hemsworth, aktor Australia, adalah salah satu aktor paling populer dan dihormati di industri saat ini. Ia lahir pada tanggal 11 Agustus 1983. Hemsworth memulai karirnya dengan serial televisi Home and Away sebelum memasuki Hollywood dan bergabung dengan Marvel Cinematic Universe. Ia terkenal karena perannya sebagai Thor dalam film Avengers dan Thor, yang mendorongnya meraih ketenaran internasional dan mengukuhkan statusnya sebagai salah satu aktor dengan bayaran tertinggi di dunia. Hemsworth juga dinobatkan sebagai salah satu dari 10 pria terseksi di dunia. Beberapa film terkenalnya termasuk Getaway, Star Trek, Red Dawn, Extraction, dan Rush.</item>
+
+        <item>Name:Will Smith\nNationality:Amerika\nBorn:September 25, 1968\nStatus:Active\nFollowers:64.4M pengikut\nApprox. Total Penghasilan:$700 juta\n\n\n
+            Will Smith, aktor ternama Amerika, juga merupakan salah satu aktor terpopuler di dunia pada tahun 2023. Lahir pada tanggal 25 September 1968, ia memulai karir aktingnya dengan serial TV "The Fresh Prince of Bel-Air". Dia kemudian membintangi beberapa film blockbuster, termasuk "Muhammad Ali" dan "The Pursuit of Happyness", menjadikannya salah satu aktor Hollywood paling sukses saat ini. Baru-baru ini, dia menjadi berita utama di seluruh dunia karena menampar Chris Rock di atas panggung Oscar pada tahun 2022. Bakat akting Will Smith yang luar biasa telah memberinya banyak penghargaan. Dia telah dinominasikan untuk Golden Globe Awards lima kali dan telah menerima dua nominasi Academy Award. Dia juga memenangkan empat Grammy Awards atas penampilannya yang luar biasa.</item>
+
+        <item>Name:Jackie Chan\nNationality:Hong Kong\nBorn:April 7, 1954\nStatus:Active\nFollowers:5.7M pengikut\nApprox. Total Penghasilan:$100 juta\n\n\n
+            Lahir pada tanggal 7 April 1954, di Victoria Peak, Hong Kong, Chan Kong-sang, juga dikenal sebagai Jackie Chan, adalah aktor yang sangat populer dari Tiongkok yang telah mendapatkan pengakuan dunia. Dia adalah individu serba bisa dengan keterampilan luar biasa dalam seni bela diri, koreografi aksi, penulisan skenario, dan menyanyi.Melalui film-filmnya, Jackie Chan telah mencapai ketenaran global karena seni bela diri dan penampilan akrobatnya yang luar biasa. Dia terkenal sebagai pahlawan aksi dan dianggap sebagai salah satu seniman bela diri terbaik di dunia, melakukan semua adegan aksinya sendiri. Dia sangat mahir dalam Kung Fu, seni bela diri Tiongkok, dan Hapkido.
+</item>
+
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/dwayne_johshon</item>
+        <item>@drawable/shahrukh_khan</item>
+        <item>@drawable/robert</item>
+        <item>@drawable/leonardo</item>
+        <item>@drawable/salman</item>
+        <item>@drawable/vin_diesel</item>
+        <item>@drawable/chris_evans</item>
+        <item>@drawable/chris_hemsworth</item>
+        <item>@drawable/will_smith</item>
+        <item>@drawable/jackie_chan</item>
+    </integer-array>
+</resources>
